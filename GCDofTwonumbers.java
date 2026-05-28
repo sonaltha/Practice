@@ -16,8 +16,6 @@ public class GCDofTwonumbers {
 			if(num1%i==0 && num2%i==0) {
 				gcd=i;
 			}
-			
-			
 		}System.out.println("GCD of " +num1+ " and " +num2+ " is " +gcd);
 
 	}
